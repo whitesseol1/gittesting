@@ -7,6 +7,8 @@ public class GitController {
 	}
 	
 	public int calcPlus(int su1, int su2) {
-		return su1+su2;
+		return su1-su2;
+		
+		
 	}
 }
